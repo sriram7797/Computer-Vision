@@ -1,5 +1,3 @@
 # Convolutional-Neural-Network
 
-Jupyter notebooks for convolution neural network (Basics to Adavnced) (Inprgess).
-
-This repo is inspired from Andrew Ng's lectures on the convolutional neural network.
+Algorithms for computer vision tasks like image classification, object detection using neural network architecutres are implemented using pytorch (or) keras.
